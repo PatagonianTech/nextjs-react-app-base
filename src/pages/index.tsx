@@ -1,4 +1,4 @@
-import HomePage from '../features/HomePage';
+import HomePage from 'features/HomePage';
 
 export default function MainPage() {
   return <HomePage />;
